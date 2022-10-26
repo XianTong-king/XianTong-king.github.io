@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiantong-king.github.io/manifest.json</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiantong-king.github.io/posts/4b79537f.html</loc>
     
     <lastmod>2022-10-26</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://xiantong-king.github.io/posts/b8cf1317.html</loc>
-    
-    <lastmod>2022-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiantong-king.github.io/manifest.json</loc>
     
     <lastmod>2022-10-25</lastmod>
     
