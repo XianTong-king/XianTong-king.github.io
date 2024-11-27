@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo—Xiantong&#39;s Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>这个世界上最亏本的事，就是为尚未发生的事情担忧，为自己想象的结果而焦虑。</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-11-26T14:47:39.005Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Wang Xiantong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决PC端输入法光标乱跳</title>
+    <link href="http://example.com/2024/11/24/%E8%BE%93%E5%85%A5%E6%B3%95%E5%85%89%E6%A0%87%E4%B9%B1%E8%B7%B3/"/>
+    <id>http://example.com/2024/11/24/%E8%BE%93%E5%85%A5%E6%B3%95%E5%85%89%E6%A0%87%E4%B9%B1%E8%B7%B3/</id>
+    <published>2024-11-24T02:21:38.678Z</published>
+    <updated>2024-11-26T14:47:39.005Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;解决PC端输入法光标乱跳&quot;&gt;&lt;a href=&quot;#解决PC端输入法光标乱跳&quot; class=&quot;headerlink&quot; title=&quot;解决PC端输入法光标乱跳&quot;&gt;&lt;/a&gt;解决PC端输入法光标乱跳&lt;/h1&gt;&lt;h3 id=&quot;打开任务管理器的几种方式&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>启动、打开、关闭文件或单击功能区时崩溃</title>
+    <link href="http://example.com/2024/11/24/%E5%90%AF%E5%8A%A8%E3%80%81%E6%89%93%E5%BC%80%E3%80%81%E5%85%B3%E9%97%AD%E6%96%87%E4%BB%B6%E6%88%96%E5%8D%95%E5%87%BB%E5%8A%9F%E8%83%BD%E5%8C%BA%E6%97%B6%E5%B4%A9%E6%BA%83/"/>
+    <id>http://example.com/2024/11/24/%E5%90%AF%E5%8A%A8%E3%80%81%E6%89%93%E5%BC%80%E3%80%81%E5%85%B3%E9%97%AD%E6%96%87%E4%BB%B6%E6%88%96%E5%8D%95%E5%87%BB%E5%8A%9F%E8%83%BD%E5%8C%BA%E6%97%B6%E5%B4%A9%E6%BA%83/</id>
+    <published>2024-11-24T02:21:38.677Z</published>
+    <updated>2024-11-26T14:47:11.445Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://010824.xyz/images/Clip_2024-08-14_16-23-12.png&quot; alt=&quot;Clip_2024-08-14_16-23-12&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;复制路径&quot;&gt;&lt;a href=&quot;#复制路径&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电脑问题解答</title>
+    <link href="http://example.com/2024/11/24/%E7%94%B5%E8%84%91%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/"/>
+    <id>http://example.com/2024/11/24/%E7%94%B5%E8%84%91%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/</id>
+    <published>2024-11-24T02:21:38.676Z</published>
+    <updated>2024-11-26T14:46:35.122Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;电脑蓝屏&quot;&gt;&lt;a href=&quot;#电脑蓝屏&quot; class=&quot;headerlink&quot; title=&quot;电脑蓝屏&quot;&gt;&lt;/a&gt;电脑蓝屏&lt;/h2&gt;&lt;h3 id=&quot;PFN-LIST-CORRUPT&quot;&gt;&lt;a href=&quot;#PFN-LIST-CORRUPT&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电脑安装火绒安全软件后黑屏</title>
+    <link href="http://example.com/2024/11/24/%E7%94%B5%E8%84%91%E5%BC%80%E6%9C%BA%E9%BB%91%E5%B1%8F/"/>
+    <id>http://example.com/2024/11/24/%E7%94%B5%E8%84%91%E5%BC%80%E6%9C%BA%E9%BB%91%E5%B1%8F/</id>
+    <published>2024-11-24T02:21:38.675Z</published>
+    <updated>2024-11-26T14:46:03.400Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;电脑安装火绒安全软件后黑屏&quot;&gt;&lt;a href=&quot;#电脑安装火绒安全软件后黑屏&quot; class=&quot;headerlink&quot; title=&quot;电脑安装火绒安全软件后黑屏&quot;&gt;&lt;/a&gt;电脑安装火绒安全软件后黑屏&lt;/h2&gt;&lt;h2 id=&quot;官方方案链接&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电脑传输文件到平板</title>
+    <link href="http://example.com/2024/11/24/%E7%94%B5%E8%84%91%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6%E5%88%B0%E5%B9%B3%E6%9D%BF/"/>
+    <id>http://example.com/2024/11/24/%E7%94%B5%E8%84%91%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6%E5%88%B0%E5%B9%B3%E6%9D%BF/</id>
+    <published>2024-11-24T02:21:38.674Z</published>
+    <updated>2024-11-26T14:45:35.065Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;小米平板&quot;&gt;&lt;a href=&quot;#小米平板&quot; class=&quot;headerlink&quot; title=&quot;小米平板&quot;&gt;&lt;/a&gt;小米平板&lt;/h1&gt;&lt;h2 id=&quot;（一）USB传输&quot;&gt;&lt;a href=&quot;#（一）USB传输&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>单向PingIP地址请求超时</title>
+    <link href="http://example.com/2024/11/24/%E5%8D%95%E5%90%91PingIP%E5%9C%B0%E5%9D%80%E8%AF%B7%E6%B1%82%E8%B6%85%E6%97%B6/"/>
+    <id>http://example.com/2024/11/24/%E5%8D%95%E5%90%91PingIP%E5%9C%B0%E5%9D%80%E8%AF%B7%E6%B1%82%E8%B6%85%E6%97%B6/</id>
+    <published>2024-11-24T02:21:38.673Z</published>
+    <updated>2024-11-26T14:44:59.487Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://010824.xyz/images/image-20241021171109539.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>win10系统乱码</title>
+    <link href="http://example.com/2024/11/24/win10%E7%B3%BB%E7%BB%9F%E4%B9%B1%E7%A0%81/"/>
+    <id>http://example.com/2024/11/24/win10%E7%B3%BB%E7%BB%9F%E4%B9%B1%E7%A0%81/</id>
+    <published>2024-11-24T02:21:38.672Z</published>
+    <updated>2024-11-26T14:48:32.702Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;打开控制面板——选择“更改日期、时间或数字格式”——管理——更改系统区域设置——设置中文（简体，中国）——确定&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://010824.xyz/images/image-20241021182025793.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>WAKE ON LAN 设置</title>
+    <link href="http://example.com/2024/11/24/WAKE%20ON%20LAN%20%E8%AE%BE%E7%BD%AE/"/>
+    <id>http://example.com/2024/11/24/WAKE%20ON%20LAN%20%E8%AE%BE%E7%BD%AE/</id>
+    <published>2024-11-24T02:21:38.670Z</published>
+    <updated>2024-11-26T14:48:07.404Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;WAKE-ON-LAN-设置&quot;&gt;&lt;a href=&quot;#WAKE-ON-LAN-设置&quot; class=&quot;headerlink&quot; title=&quot;WAKE ON LAN 设置&quot;&gt;&lt;/a&gt;WAKE ON LAN 设置&lt;/h1&gt;&lt;h2 id=&quot;设置网卡驱动如下图所示&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ArcGIS显示崩溃</title>
+    <link href="http://example.com/2024/11/24/ArcGIS%E6%98%BE%E7%A4%BA%E5%B4%A9%E6%BA%83/"/>
+    <id>http://example.com/2024/11/24/ArcGIS%E6%98%BE%E7%A4%BA%E5%B4%A9%E6%BA%83/</id>
+    <published>2024-11-24T02:21:38.669Z</published>
+    <updated>2024-11-26T14:43:55.718Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;ArcGIS显示崩溃&quot;&gt;&lt;a href=&quot;#ArcGIS显示崩溃&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
